@@ -5,19 +5,19 @@
   gh_user: Lee-seungju
   repo: 42-cursus/tree/master/philosophers
   img: https://images.theconversation.com/files/257265/original/file-20190205-86202-19tymqj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop
-  desc: 이 프로젝트는 기본적인 프로세스 스레딩, mutex, semaphore, shared memory을 배웁니다.(In this project, you will learn the basics of threading a process and how to work on the same memory space. You will learn how to make threads. You will discover the mutex, semaphore and shared memory.)
+  desc: 이 프로젝트는 기본적인 프로세스 스레딩, mutex, semaphore, shared memory을 배웁니다.
 
-- name: Jekyll Theme
-  gh_user: tzuehlke
-  repo: jekyll-uno-timeline
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
-  desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
+- name: minishell
+  gh_user: Lee-seungju
+  repo: 42-cursus/tree/master/minishell
+  img: https://blog.hyunsub.kim/covers/bash.jpg
+  desc: 이 프로젝트는 bash와 기능이 유사한 minishell을 만드는 것입니다. 
 
-- name: Azure Automation Scripts
-  gh_user: tzuehlke
-  repo: scripts
-  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+- name: php_symfony_rush00
+  gh_user: Lee-seungju
+  repo: 42-cursus/tree/master/php_symfony_rush00
+  img: https://github.com/Lee-seungju/42-cursus/blob/master/php_symfony_rush00/main.png?raw=true
+  desc: 이 프로젝트는 moviemon과 전투를 하고, 주인공이 이동을 하는 간단한 게임을 만드는 것입니다.
 
 - name: Face API
   gh_user: ArvatoSystems

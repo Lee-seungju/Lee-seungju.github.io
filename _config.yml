@@ -4,7 +4,7 @@ description: 'Business Card Page'
 url: 'https://lee-seungju.github.io/'
 baseurl: ''
 profilepic: '/images/slee2.jpg'
-bkimage: '/images/bk1.jpg'
+bkimage: '/images/back1.png'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 

@@ -4,8 +4,8 @@
 - name: philosophers
   gh_user: Lee-seungju
   repo: 42-cursus/tree/master/philosophers
-  img: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcga5Mx%2FbtqyY3EdhM7%2Fdn1evzefNxJMKnEmlBk9s0%2Fimg.png
-  desc: A fork of the Debug-Container Project from Daniel Meixner. It is based on NodeJS and provides some calls for debugging and for calling other containers. I extended the project with Error-Codes, Sleep-Time, Header-Copy, SSH Server, ...
+  img: https://images.theconversation.com/files/257265/original/file-20190205-86202-19tymqj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop
+  desc: 이 프로젝트는 기본적인 프로세스 스레딩, mutex, semaphore, shared memory을 배웁니다.(In this project, you will learn the basics of threading a process and how to work on the same memory space. You will learn how to make threads. You will discover the mutex, semaphore and shared memory.)
 
 - name: Jekyll Theme
   gh_user: tzuehlke

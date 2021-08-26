@@ -1,9 +1,9 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: aa
-  gh_user: tzuehlke
-  repo: DebugContainer
+- name: philosophers
+  gh_user: Lee-seungju
+  repo: philosophers
   img: https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcga5Mx%2FbtqyY3EdhM7%2Fdn1evzefNxJMKnEmlBk9s0%2Fimg.png
   desc: A fork of the Debug-Container Project from Daniel Meixner. It is based on NodeJS and provides some calls for debugging and for calling other containers. I extended the project with Error-Codes, Sleep-Time, Header-Copy, SSH Server, ...
 

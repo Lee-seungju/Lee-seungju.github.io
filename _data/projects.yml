@@ -19,8 +19,8 @@
   img: https://github.com/Lee-seungju/42-cursus/blob/master/php_symfony_rush00/main.png?raw=true
   desc: 맵이 있습니다. 이 맵은 5 x 5 크기의 맵이고 주인공은 화살표를 클릭하여 이동할 수 있습니다. 그리고 일정확률로 moviemon을 만나고 전투를 할 수 있습니다. 또 잡은 moviemon은 도감에서 확인할 수 있습니다. I have a map. This map is 5 x 5 in size and the main character can be moved by clicking the arrows. And with a certain probability, you can meet moviemon and fight. You can also check the moviemon caught in the illustrated book.
   
-  - name: so_long
-    gh_user: Lee-seungju
-    repo: 42-cursus/tree/master/so_long
-    img: https://github.com/Lee-seungju/42-cursus/blob/master/so_long/title.png?raw=true
-    desc: 이 프로젝트는 게임을 만드는 것입니다. 텍스트 파일(.txt 아님)을 기반으로 맵을 읽은 후에 오류확인을 하고 이후에 모든 아이템을 먹으면 탈출하도록 게임을 만들어야 합니다. 보너스는 적도 나오며 약간의 애니메이션도 추가됩니다! This project is to make a game. Based on the text file(not .txt), you need to make a game that reads the map, checks for errors, and then escapes by eating all the items. Bonuses are also enemies, plus some animations!
+- name: so_long
+  gh_user: Lee-seungju
+  repo: 42-cursus/tree/master/so_long
+  img: https://github.com/Lee-seungju/42-cursus/blob/master/so_long/title.png?raw=true
+  desc: 이 프로젝트는 게임을 만드는 것입니다. 텍스트 파일(.txt 아님)을 기반으로 맵을 읽은 후에 오류확인을 하고 이후에 모든 아이템을 먹으면 탈출하도록 게임을 만들어야 합니다. 보너스는 적도 나오며 약간의 애니메이션도 추가됩니다! This project is to make a game. Based on the text file(not .txt), you need to make a game that reads the map, checks for errors, and then escapes by eating all the items. Bonuses are also enemies, plus some animations!

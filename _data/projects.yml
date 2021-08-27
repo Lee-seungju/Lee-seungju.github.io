@@ -5,19 +5,19 @@
   gh_user: Lee-seungju
   repo: 42-cursus/tree/master/philosophers
   img: https://images.theconversation.com/files/257265/original/file-20190205-86202-19tymqj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop
-  desc: 이 프로젝트는 기본적인 프로세스 스레딩, mutex, semaphore, shared memory을 배웁니다.
+  desc: 이 프로젝트는 기본적인 프로세스 스레딩, mutex, semaphore, shared memory을 배웁니다. 각 철학자를 스레드 또는 세미포어로 만들어 관리합니다. This project will teach you the basics of process threading, mutexes, semaphores, and shared memory. Each philosopher is created and managed as a thread or semipore.
 
 - name: minishell
   gh_user: Lee-seungju
   repo: 42-cursus/tree/master/minishell
   img: https://blog.kakaocdn.net/dn/n1QDr/btqCJlFVXg4/QZCZAKcQXNRkRtxB3vnkoK/img.png
-  desc: 이 프로젝트는 bash와 기능이 유사한 minishell을 만드는 것입니다. 
+  desc: 이 프로젝트는 bash와 기능이 유사한 minishell을 만드는 것입니다. bash의 기능은 물론이고, 터미널의 옵션, 커서 제어 등에 대해 공부해야 하며 띄어쓰기 같은 사소한 오류도 잡아야 합니다. This project is to create a minishell with similar functionality to bash. You should study the features of bash as well as options in the terminal, cursor control, etc., and catch minor errors such as spaces.
 
 - name: php_symfony_rush00
   gh_user: Lee-seungju
   repo: 42-cursus/tree/master/php_symfony_rush00
   img: https://github.com/Lee-seungju/42-cursus/blob/master/php_symfony_rush00/main.png?raw=true
-  desc: 이 프로젝트는 moviemon과 전투를 하고, 주인공이 이동을 하는 간단한 게임을 만드는 것입니다.
+  desc: 맵이 있습니다. 이 맵은 5 x 5 크기의 맵이고 주인공은 화살표를 클릭하여 이동할 수 있습니다. 그리고 일정확률로 moviemon을 만나고 전투를 할 수 있습니다. 또 잡은 moviemon은 도감에서 확인할 수 있습니다. I have a map. This map is 5 x 5 in size and the main character can be moved by clicking the arrows. And with a certain probability, you can meet moviemon and fight. You can also check the moviemon caught in the illustrated book.
 
 - name: 
   gh_user: 

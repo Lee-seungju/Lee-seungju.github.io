@@ -36,3 +36,9 @@
   repo: 42-cursus/tree/master/pipex
   img: https://i5.walmartimages.com/asr/c934c475-1ca0-43cb-80a0-d2ae7b662ce1_1.61aa22bff653b8bbcb113c2639f9a8b4.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff
   desc: 이 프로젝트는 쉘 명령어 중에 pipe를 포함한 명령어를 실행가능하도록 구현시키는 프로젝트입니다. 리다이렉션을 포함한 기능을 구현해야 하며, 보너스는 헤러독(heredoc) 과 어펜드(append)까지 구현을 하는 것입니다. 이 프로젝트에서는 프로세스의 부모, 자식관계와 파이프 함수에 대해 배울 수 있습니다. This project is a project that implements commands including pipe among shell commands to be executable. You need to implement functionality including redirection, the bonus is to implement heredoc and append. In this project, you can learn about parent and child relationships of processes and pipe functions.
+
+- name: pipex
+  gh_user: Lee-seungju
+  repo: 42-cursus/tree/master/pipex
+  img: https://i5.walmartimages.com/asr/c934c475-1ca0-43cb-80a0-d2ae7b662ce1_1.61aa22bff653b8bbcb113c2639f9a8b4.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff
+  desc: 이 프로젝트는 쉘 명령어 중에 pipe를 포함한 명령어를 실행가능하도록 구현시키는 프로젝트입니다. 리다이렉션을 포함한 기능을 구현해야 하며, 보너스는 헤러독(heredoc) 과 어펜드(append)까지 구현을 하는 것입니다. 이 프로젝트에서는 프로세스의 부모, 자식관계와 파이프 함수에 대해 배울 수 있습니다. This project is a project that implements commands including pipe among shell commands to be executable. You need to implement functionality including redirection, the bonus is to implement heredoc and append. In this project, you can learn about parent and child relationships of processes and pipe functions.
